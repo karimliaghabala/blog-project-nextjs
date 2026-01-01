@@ -7,8 +7,8 @@ const config: Config = {
   ],
   theme: {
     extend: {
-        container:{
-            padding:'2rem',
+        fontSize:{
+            '7xl': '12rem'
         },
       colors: {
         primary: "#1e40af",
